@@ -1,4 +1,4 @@
-Alfa Nieto
+﻿Alfa Nieto
 Beta Calderon
 Gamma Olivieri
 
@@ -6,3 +6,8 @@ Nombre: Jorge
 Apellido: Calderón
 IP: 181.44.224.13 
 Hora: 19:30
+
+Nombre: Javier
+Apellido: Olivieri
+IP: 186.22.40.171
+Hora; 07:35 p.m. 03/09/2021
